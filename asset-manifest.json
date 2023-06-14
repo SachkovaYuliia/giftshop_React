@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/giftshop_React.git/static/css/main.37814279.css",
+    "main.js": "/giftshop_React.git/static/js/main.f3343297.js",
+    "static/js/787.16d4f98d.chunk.js": "/giftshop_React.git/static/js/787.16d4f98d.chunk.js",
+    "static/media/Background.png": "/giftshop_React.git/static/media/Background.36c513756770225ebaee.png",
+    "static/media/Media Background.png": "/giftshop_React.git/static/media/Media Background.59f5e51818abc84ccdc7.png",
+    "static/media/Media.png": "/giftshop_React.git/static/media/Media.3e0d1c43a03e6ad52455.png",
+    "static/media/Rectangle (3).png": "/giftshop_React.git/static/media/Rectangle (3).3a912d7df86957eda586.png",
+    "static/media/Rectangle (1).png": "/giftshop_React.git/static/media/Rectangle (1).f54bf1d502ef9d9be4c8.png",
+    "static/media/Rectangle (2).png": "/giftshop_React.git/static/media/Rectangle (2).8946ffb8039ba4ecd198.png",
+    "static/media/Rectangle.png": "/giftshop_React.git/static/media/Rectangle.05adca11a19ccf525b6e.png",
+    "index.html": "/giftshop_React.git/index.html",
+    "main.37814279.css.map": "/giftshop_React.git/static/css/main.37814279.css.map",
+    "main.f3343297.js.map": "/giftshop_React.git/static/js/main.f3343297.js.map",
+    "787.16d4f98d.chunk.js.map": "/giftshop_React.git/static/js/787.16d4f98d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37814279.css",
+    "static/js/main.f3343297.js"
+  ]
+}
